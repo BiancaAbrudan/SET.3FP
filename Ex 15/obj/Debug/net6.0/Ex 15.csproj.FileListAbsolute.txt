@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Set3\Ex 15\bin\Debug\net6.0\Ex 15.exe
+C:\Users\Admin\Desktop\Set3\Ex 15\bin\Debug\net6.0\Ex 15.deps.json
+C:\Users\Admin\Desktop\Set3\Ex 15\bin\Debug\net6.0\Ex 15.runtimeconfig.json
+C:\Users\Admin\Desktop\Set3\Ex 15\bin\Debug\net6.0\Ex 15.dll
+C:\Users\Admin\Desktop\Set3\Ex 15\bin\Debug\net6.0\Ex 15.pdb
+C:\Users\Admin\Desktop\Set3\Ex 15\obj\Debug\net6.0\Ex 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Set3\Ex 15\obj\Debug\net6.0\Ex 15.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Set3\Ex 15\obj\Debug\net6.0\Ex 15.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Set3\Ex 15\obj\Debug\net6.0\Ex 15.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Set3\Ex 15\obj\Debug\net6.0\Ex 15.dll
+C:\Users\Admin\Desktop\Set3\Ex 15\obj\Debug\net6.0\refint\Ex 15.dll
+C:\Users\Admin\Desktop\Set3\Ex 15\obj\Debug\net6.0\Ex 15.pdb
+C:\Users\Admin\Desktop\Set3\Ex 15\obj\Debug\net6.0\Ex 15.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Set3\Ex 15\obj\Debug\net6.0\ref\Ex 15.dll
