@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Set3\Ex 28\bin\Debug\net6.0\Ex 28.exe
+C:\Users\Admin\Desktop\Set3\Ex 28\bin\Debug\net6.0\Ex 28.deps.json
+C:\Users\Admin\Desktop\Set3\Ex 28\bin\Debug\net6.0\Ex 28.runtimeconfig.json
+C:\Users\Admin\Desktop\Set3\Ex 28\bin\Debug\net6.0\Ex 28.dll
+C:\Users\Admin\Desktop\Set3\Ex 28\bin\Debug\net6.0\Ex 28.pdb
+C:\Users\Admin\Desktop\Set3\Ex 28\obj\Debug\net6.0\Ex 28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Set3\Ex 28\obj\Debug\net6.0\Ex 28.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Set3\Ex 28\obj\Debug\net6.0\Ex 28.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Set3\Ex 28\obj\Debug\net6.0\Ex 28.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Set3\Ex 28\obj\Debug\net6.0\Ex 28.dll
+C:\Users\Admin\Desktop\Set3\Ex 28\obj\Debug\net6.0\refint\Ex 28.dll
+C:\Users\Admin\Desktop\Set3\Ex 28\obj\Debug\net6.0\Ex 28.pdb
+C:\Users\Admin\Desktop\Set3\Ex 28\obj\Debug\net6.0\Ex 28.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Set3\Ex 28\obj\Debug\net6.0\ref\Ex 28.dll
